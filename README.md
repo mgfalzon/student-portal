@@ -3,7 +3,7 @@
 <img src="https://image.flaticon.com/icons/svg/216/216220.svg" align="right"
      alt="Icon" width="120" height="178">
      
-FGSM portal Front-End demo
+FGSM portal front-end demo
 
 * The FGSM student portal is a **complete UX/UI re-design** of the University of
   Maryland's Federal and Global Fellows student portal
