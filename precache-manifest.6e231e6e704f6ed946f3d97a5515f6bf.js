@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7f811dbbe5fc701d58024f394ef8c5c",
+    "revision": "43c4cb720aedd3ee875a0f46def60a13",
     "url": "/student-portal/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/student-portal/static/js/2.835e165b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "804356e18fffcf11c2c0",
-    "url": "/student-portal/static/js/main.e3f914ca.chunk.js"
+    "revision": "451a4dc5adffb52f4a33",
+    "url": "/student-portal/static/js/main.66c6c7d0.chunk.js"
   },
   {
     "revision": "109f9aca9e853a81d7b5",
