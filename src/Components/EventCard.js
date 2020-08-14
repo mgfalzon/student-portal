@@ -4,7 +4,7 @@ import {FaBriefcase, FaInfoCircle, FaWrench, FaStar} from 'react-icons/fa'
 import {color} from './Utils'
 
 const formatDate = (data) => (
-    data.slice(5,7) + '/' + data.slice(-2) +  '/' + data.slice(0,4)
+    data.slice(-2) + '/' + data.slice(5,7) +  '/' + data.slice(0,4)
 )
 
 const formatTime = (data) => (
