@@ -25,10 +25,17 @@ FGSM portal Front-End demo
     * The Menu component sends onClose to props.children[0] which allows the
       menu bar to be changed easily
 
+## Additional Notes
+*  The Live Demo does NOT contain all features
+*  As this project was written for the **Univeristy of Maryland**, the original react
+   code will not be included on this public github repo
+*  If you are an employer and would like to view the source code contact me at <mattgfalzon@gmail.com>
 
   
 <br/>
-<a href="http://mgfalzon.github.io/student-portal" target="_blank">Live Demo</a>
+<h2>
+     <a href="http://mgfalzon.github.io/student-portal" target="_blank">Live Demo</a>
+</h2>
 
 
 <h4 align="center">Preview</h4>
