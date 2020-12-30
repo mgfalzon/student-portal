@@ -32,7 +32,7 @@ FGSM portal front-end demo
 *  This project was written for the **Univeristy of Maryland**
 *  To access to the real portal you must be accepted into the
    **Federal and Global Fellows Program at the Univeristy of Maryland**
-*  If you are an employer and would like to more detail about this project 
+*  If you are an employer and would like to learn more about this project 
    contact me at <mattgfalzon@gmail.com>
 
   
